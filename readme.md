@@ -1,6 +1,6 @@
 # EveryoneGM
 
-EveryonGM is a chrome extension that will make everyone appear with the "GM" tag on their name during a match. It is purely client-side, though at your own risk to use.
+EveryoneGM is a chrome extension that will make everyone appear with the "GM" tag on their name during a match. It is purely client-side, though at your own risk to use.
 
 ## Installation
 
